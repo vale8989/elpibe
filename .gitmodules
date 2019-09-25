@@ -1,0 +1,4 @@
+[submodule "ingadhoc/account-invoicing"]
+	path = ingadhoc/account-invoicing
+	url = git@github.com:ingadhoc/account-invoicing.git
+	branch = 11.0
